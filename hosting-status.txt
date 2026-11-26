@@ -1,0 +1,7 @@
+Netlify project: tmg-home-solutions-concept
+Project ID: 469850cc-06c2-4055-aea4-bc08de9b7a20
+Dashboard: https://app.netlify.com/projects/tmg-home-solutions-concept
+Team-login protection: all deploys
+Status at handoff: undeployed; no Git integration connected
+Source repository: https://github.com/Infekted11/tmg-home-solutions-concept
+Visibility: public source, unpublished website

@@ -1,0 +1,34 @@
+TMG concept verification — November 26, 2026
+
+Desktop and mobile layout
+Browser-tested widths: 320, 375, 390, 768, 1024, 1440 CSS px.
+All document scroll widths equal viewport widths; no overflowing elements.
+Desktop and mobile full-page screenshots saved alongside this file.
+
+Contact links
+Two phone anchors: tel:+16313172668
+Three email anchors: mailto:tmghomesolutionsinc@gmail.com
+Targets inspected in the live browser DOM; no calls or emails initiated.
+Nextdoor source link matches supplied URL and opens with noopener/noreferrer.
+
+Accessibility
+English document language, viewport metadata, one H1, labeled navigation,
+semantic sections and headings, image description, visible caption.
+Keyboard navigation and Enter activation of Services verified.
+Keyboard focus uses a visible 3px outline. Skip-to-content link included.
+Text contrast ratios: body 13.02:1, secondary 6.01:1, CTA 5.85:1,
+orange text 5.51:1, contact secondary 10.19:1, banner secondary 5.25:1.
+Reduced-motion preference disables smooth scrolling.
+These are focused checks, not a full assistive-technology audit.
+
+Publication and content
+Local HTTP response: 200.
+Netlify build guard executed locally and correctly exits 1.
+Configured build and header keys checked against official Netlify schema.
+Netlify project: 469850cc-06c2-4055-aea4-bc08de9b7a20
+Dashboard: https://app.netlify.com/projects/tmg-home-solutions-concept
+Project returned team-login protection for all deploys and no published deploy ID.
+No deployment was created, and no Git integration was connected.
+Public source: https://github.com/Infekted11/tmg-home-solutions-concept
+No README, no business outreach, no external images/fonts/analytics.
+Source and contacts checked against the supplied Nextdoor listing.
