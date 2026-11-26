@@ -1,0 +1,29 @@
+TMG Home Solutions Inc. — Unofficial website concept
+
+LOCAL PREVIEW
+Double-click preview.command on macOS (requires Python 3).
+Then open http://127.0.0.1:4207 in your browser.
+Keep the Terminal window open; Control-C stops the server.
+
+Alternatively, from this folder run:
+python3 -m http.server 4207 --bind 127.0.0.1 --directory public
+
+There is no build step or package installation. All assets are local.
+The phone and email links open your device's phone or email application.
+The project inquiry section gives guidance for composing an email; it does
+not collect or submit data. No analytics or third-party fonts are used.
+
+PUBLICATION STATUS
+For private local review. No website deployment is authorized.
+A deliberately failing Netlify build command guards against Git-triggered
+publication; direct manual uploads must also be avoided.
+The source repository is public as requested. Public source is not private.
+There is no README and no GitHub Pages configuration.
+
+CONTENT SOURCE
+https://nextdoor.com/pages/tmg-home-solutions-inc-patchogue-ny/
+Checked November 26, 2026 against supplied business details.
+Only supplied business claims are included. No street address, hours,
+credentials, guarantees, testimonials, prices, or project portfolio.
+The original SVG house drawing is illustrative, labeled on the page,
+and is not a TMG project or business premises.
